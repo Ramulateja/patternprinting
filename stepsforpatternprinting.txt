@@ -1,0 +1,5 @@
+4 steps for pattern printing:
+    1.outer loop is for number of lines we call it as rows.
+    2.inner loops is for columns.
+    3.always print "*" inside the inner loop.
+    4.symmetry observation.
